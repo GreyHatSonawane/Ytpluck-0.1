@@ -41,7 +41,7 @@ So I built **YTPLUCK 0.1**, featuring:
 
 ---
 
-## 📦 Installation (Developer Mode)
+## 📦 Installation 
 
 Run the ytpluck.exe directly from the link given below ..
 
